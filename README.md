@@ -35,11 +35,11 @@ básico** do pedido, e adicionar o valor do frete. A regra para cálculo do fret
 
 Sua solução deverá seguir as seguintes especificações:
 Um pedido deve ser representado por um objeto conforme projeto abaixo: 
-![Objeto Order](\assets\order.png)
+![Objeto Order](https://github.com/elderbr/order/blob/main/assets/order.png)
 
 A lógica do cálculo do valor total do pedido deve ser implementada por componentes (serviços), cada
 um com sua responsabilidade, conforme projeto abaixo: 
-![Services](\assets\services.png)
+![Services](https://github.com/elderbr/order/blob/main/assets/services.png)
 
 **Serviço OrderService:** responsável por operações referentes a pedidos.
 Serviço ShippingService: responsável por operações referentes a frete.
